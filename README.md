@@ -5,14 +5,13 @@
 Бот позволяет конвертировать валюты fiat => fiat, crypto => fiat, fiat => crypto, crypto => crypto
 
 > [!NOTE]
-> Ссылка на прод бота: <https://t.me/curbeebot>
+> Ссылка на прод бота: <временно отсутствует>
 
 ## Используемые технологии
 
 - Бот построен на [Aiogram](https://aiogram.dev/) с использованием [Python](https://www.python.org/)
 - В качестве данных о курсах фиатных валют подтягивается [json с курсами ЦБРФ](https://www.cbr-xml-daily.ru/)
 - В качестве данных о курсах криптовалют делается запрос к [API ресурса Cryptocompare](https://min-api.cryptocompare.com/)
-- Бот крутится на хостинге [Railway](https://railway.app/)
 
 ## Как работает бот
 
